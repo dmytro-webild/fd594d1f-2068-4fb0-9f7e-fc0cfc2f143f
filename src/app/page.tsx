@@ -116,7 +116,7 @@ export default function LandingPage() {
             ]}
             mediaAnimation="slide-up"
             title="Security Guidelines"
-            description="Protocols for restaurant removal and access revocation."
+            description="Protocols for restaurant removal and access revocation. For complex compliance procedures, please contact our support team."
             faqsAnimation="blur-reveal"
             imageSrc="http://img.b2bpic.net/free-vector/food-infographic-template_1284-48296.jpg"
           />
