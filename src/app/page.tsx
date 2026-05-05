@@ -45,13 +45,13 @@ export default function LandingPage() {
             title="Super Admin Control Center"
             description="Oversee operations, revoke platform access, and manage subscription statuses for all registered partner restaurants."
             testimonials={[
-              { name: "System Admin", handle: "@admin", testimonial: "Platform stability remains at 99.9% with the current management protocol.", rating: 5, imageSrc: "http://img.b2bpic.net/free-photo/closeup-african-american-entrepreneur-analyzing-company-profit_482257-20207.jpg", imageAlt: "saas dashboard background dark" },
-              { name: "Database Lead", handle: "@db", testimonial: "Soft-delete implementation has reduced record loss significantly.", rating: 5, imageSrc: "http://img.b2bpic.net/free-vector/restaurant-logo-food-business-template-branding-design-vector_53876-154123.jpg", imageAlt: "saas dashboard background dark" },
-              { name: "Security Ops", handle: "@sec", testimonial: "Revoke access logs are now fully automated and transparent.", rating: 5, imageSrc: "http://img.b2bpic.net/free-photo/birthday-cake-icon-happy-birthday-cake-birthday-celebration-with-candles_460848-11269.jpg", imageAlt: "saas dashboard background dark" },
-              { name: "Support Manager", handle: "@support", testimonial: "Managing subscriptions is now 3x faster with the new dashboard.", rating: 5, imageSrc: "http://img.b2bpic.net/free-vector/hot-smoked-fire-logo-business-branding-template-barbeque-designs-inspiration-isolated-white-background_384344-1442.jpg", imageAlt: "saas dashboard background dark" },
-              { name: "Product Owner", handle: "@product", testimonial: "The new analytics view gives us deep insights into growth.", rating: 5, imageSrc: "http://img.b2bpic.net/free-vector/20-food-solid-glyph-icon-presentation_1142-22254.jpg", imageAlt: "saas dashboard background dark" }
+              { name: "System Admin", handle: "@admin", testimonial: "Platform stability remains at 99.9% with the current management protocol.", rating: 5, imageSrc: "http://img.b2bpic.net/free-photo/closeup-african-american-entrepreneur-analyzing-company-profit_482257-20207.jpg?_wi=1", imageAlt: "saas dashboard background dark" },
+              { name: "Database Lead", handle: "@db", testimonial: "Soft-delete implementation has reduced record loss significantly.", rating: 5, imageSrc: "http://img.b2bpic.net/free-vector/restaurant-logo-food-business-template-branding-design-vector_53876-154123.jpg?_wi=1", imageAlt: "saas dashboard background dark" },
+              { name: "Security Ops", handle: "@sec", testimonial: "Revoke access logs are now fully automated and transparent.", rating: 5, imageSrc: "http://img.b2bpic.net/free-photo/birthday-cake-icon-happy-birthday-cake-birthday-celebration-with-candles_460848-11269.jpg?_wi=1", imageAlt: "saas dashboard background dark" },
+              { name: "Support Manager", handle: "@support", testimonial: "Managing subscriptions is now 3x faster with the new dashboard.", rating: 5, imageSrc: "http://img.b2bpic.net/free-vector/hot-smoked-fire-logo-business-branding-template-barbeque-designs-inspiration-isolated-white-background_384344-1442.jpg?_wi=1", imageAlt: "saas dashboard background dark" },
+              { name: "Product Owner", handle: "@product", testimonial: "The new analytics view gives us deep insights into growth.", rating: 5, imageSrc: "http://img.b2bpic.net/free-vector/20-food-solid-glyph-icon-presentation_1142-22254.jpg?_wi=1", imageAlt: "saas dashboard background dark" }
             ]}
-            imageSrc="http://img.b2bpic.net/free-photo/closeup-african-american-entrepreneur-analyzing-company-profit_482257-20207.jpg"
+            imageSrc="http://img.b2bpic.net/free-photo/closeup-african-american-entrepreneur-analyzing-company-profit_482257-20207.jpg?_wi=2"
             avatars={[
               { src: "http://img.b2bpic.net/free-photo/close-up-accounting-sales-statistics-computer-display_482257-122982.jpg", alt: "System Admin" },
               { src: "http://img.b2bpic.net/free-photo/determined-ceo-works-office-analyzing-infographics-setting-business-goals_482257-123120.jpg", alt: "Database Lead" },
@@ -76,10 +76,10 @@ export default function LandingPage() {
             gridVariant="uniform-all-items-equal"
             useInvertedBackground={false}
             products={[
-              { id: "res1", brand: "Active", name: "Grand Bistro", price: "$1200", rating: 5, reviewCount: "120", imageSrc: "http://img.b2bpic.net/free-vector/restaurant-logo-food-business-template-branding-design-vector_53876-154123.jpg" },
-              { id: "res2", brand: "Active", name: "Burger Joint", price: "$800", rating: 4, reviewCount: "89", imageSrc: "http://img.b2bpic.net/free-photo/birthday-cake-icon-happy-birthday-cake-birthday-celebration-with-candles_460848-11269.jpg" },
-              { id: "res3", brand: "Suspended", name: "Spice Route", price: "$0", rating: 0, reviewCount: "0", imageSrc: "http://img.b2bpic.net/free-vector/hot-smoked-fire-logo-business-branding-template-barbeque-designs-inspiration-isolated-white-background_384344-1442.jpg" },
-              { id: "res4", brand: "Active", name: "Coffee House", price: "$450", rating: 5, reviewCount: "300", imageSrc: "http://img.b2bpic.net/free-vector/20-food-solid-glyph-icon-presentation_1142-22254.jpg" },
+              { id: "res1", brand: "Active", name: "Grand Bistro", price: "$1200", rating: 5, reviewCount: "120", imageSrc: "http://img.b2bpic.net/free-vector/restaurant-logo-food-business-template-branding-design-vector_53876-154123.jpg?_wi=2" },
+              { id: "res2", brand: "Active", name: "Burger Joint", price: "$800", rating: 4, reviewCount: "89", imageSrc: "http://img.b2bpic.net/free-photo/birthday-cake-icon-happy-birthday-cake-birthday-celebration-with-candles_460848-11269.jpg?_wi=2" },
+              { id: "res3", brand: "Suspended", name: "Spice Route", price: "$0", rating: 0, reviewCount: "0", imageSrc: "http://img.b2bpic.net/free-vector/hot-smoked-fire-logo-business-branding-template-barbeque-designs-inspiration-isolated-white-background_384344-1442.jpg?_wi=2" },
+              { id: "res4", brand: "Active", name: "Coffee House", price: "$450", rating: 5, reviewCount: "300", imageSrc: "http://img.b2bpic.net/free-vector/20-food-solid-glyph-icon-presentation_1142-22254.jpg?_wi=2" },
               { id: "res5", brand: "Active", name: "Pizza Corner", price: "$900", rating: 4, reviewCount: "150", imageSrc: "http://img.b2bpic.net/free-vector/bakery-text-banner-poster-design_1308-124862.jpg" },
               { id: "res6", brand: "Active", name: "Sushi Bar", price: "$1500", rating: 5, reviewCount: "400", imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/default/no-image.jpg?id=6ksood" }
             ]}
