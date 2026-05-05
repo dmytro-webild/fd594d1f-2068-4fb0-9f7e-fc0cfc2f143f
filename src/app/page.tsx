@@ -44,6 +44,8 @@ export default function LandingPage() {
             background={{ variant: "gradient-bars" }}
             title="Super Admin Control Center"
             description="Oversee operations, revoke platform access, and manage subscription statuses for all registered partner restaurants."
+            buttons={[{ text: "Launch Dashboard", href: "#restaurants" }]}
+            buttonAnimation="slide-up"
             testimonials={[
               { name: "System Admin", handle: "@admin", testimonial: "Platform stability remains at 99.9% with the current management protocol.", rating: 5, imageSrc: "http://img.b2bpic.net/free-photo/closeup-african-american-entrepreneur-analyzing-company-profit_482257-20207.jpg?_wi=1", imageAlt: "saas dashboard background dark" },
               { name: "Database Lead", handle: "@db", testimonial: "Soft-delete implementation has reduced record loss significantly.", rating: 5, imageSrc: "http://img.b2bpic.net/free-vector/restaurant-logo-food-business-template-branding-design-vector_53876-154123.jpg?_wi=1", imageAlt: "saas dashboard background dark" },
