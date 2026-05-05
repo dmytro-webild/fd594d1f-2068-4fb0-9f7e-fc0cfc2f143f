@@ -53,7 +53,7 @@ export default function LandingPage() {
           handle: "@admin",
           testimonial: "Platform stability remains at 99.9% with the current management protocol.",
           rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-photo/closeup-african-american-entrepreneur-analyzing-company-profit_482257-20207.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/closeup-african-american-entrepreneur-analyzing-company-profit_482257-20207.jpg?_wi=1",
           imageAlt: "saas dashboard background dark",
         },
         {
@@ -61,7 +61,7 @@ export default function LandingPage() {
           handle: "@db",
           testimonial: "Soft-delete implementation has reduced record loss significantly.",
           rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-vector/restaurant-logo-food-business-template-branding-design-vector_53876-154123.jpg",
+          imageSrc: "http://img.b2bpic.net/free-vector/restaurant-logo-food-business-template-branding-design-vector_53876-154123.jpg?_wi=1",
           imageAlt: "saas dashboard background dark",
         },
         {
@@ -69,7 +69,7 @@ export default function LandingPage() {
           handle: "@sec",
           testimonial: "Revoke access logs are now fully automated and transparent.",
           rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-photo/birthday-cake-icon-happy-birthday-cake-birthday-celebration-with-candles_460848-11269.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/birthday-cake-icon-happy-birthday-cake-birthday-celebration-with-candles_460848-11269.jpg?_wi=1",
           imageAlt: "saas dashboard background dark",
         },
         {
@@ -77,7 +77,7 @@ export default function LandingPage() {
           handle: "@support",
           testimonial: "Managing subscriptions is now 3x faster with the new dashboard.",
           rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-vector/hot-smoked-fire-logo-business-branding-template-barbeque-designs-inspiration-isolated-white-background_384344-1442.jpg",
+          imageSrc: "http://img.b2bpic.net/free-vector/hot-smoked-fire-logo-business-branding-template-barbeque-designs-inspiration-isolated-white-background_384344-1442.jpg?_wi=1",
           imageAlt: "saas dashboard background dark",
         },
         {
@@ -85,11 +85,11 @@ export default function LandingPage() {
           handle: "@product",
           testimonial: "The new analytics view gives us deep insights into growth.",
           rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-vector/20-food-solid-glyph-icon-presentation_1142-22254.jpg",
+          imageSrc: "http://img.b2bpic.net/free-vector/20-food-solid-glyph-icon-presentation_1142-22254.jpg?_wi=1",
           imageAlt: "saas dashboard background dark",
         },
       ]}
-      imageSrc="http://img.b2bpic.net/free-photo/closeup-african-american-entrepreneur-analyzing-company-profit_482257-20207.jpg"
+      imageSrc="http://img.b2bpic.net/free-photo/closeup-african-american-entrepreneur-analyzing-company-profit_482257-20207.jpg?_wi=2"
       avatars={[
         {
           src: "http://img.b2bpic.net/free-photo/close-up-accounting-sales-statistics-computer-display_482257-122982.jpg",
@@ -151,7 +151,7 @@ export default function LandingPage() {
           price: "$1200",
           rating: 5,
           reviewCount: "120",
-          imageSrc: "http://img.b2bpic.net/free-vector/restaurant-logo-food-business-template-branding-design-vector_53876-154123.jpg",
+          imageSrc: "http://img.b2bpic.net/free-vector/restaurant-logo-food-business-template-branding-design-vector_53876-154123.jpg?_wi=2",
         },
         {
           id: "res2",
@@ -160,7 +160,7 @@ export default function LandingPage() {
           price: "$800",
           rating: 4,
           reviewCount: "89",
-          imageSrc: "http://img.b2bpic.net/free-photo/birthday-cake-icon-happy-birthday-cake-birthday-celebration-with-candles_460848-11269.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/birthday-cake-icon-happy-birthday-cake-birthday-celebration-with-candles_460848-11269.jpg?_wi=2",
         },
         {
           id: "res3",
@@ -169,7 +169,7 @@ export default function LandingPage() {
           price: "$0",
           rating: 0,
           reviewCount: "0",
-          imageSrc: "http://img.b2bpic.net/free-vector/hot-smoked-fire-logo-business-branding-template-barbeque-designs-inspiration-isolated-white-background_384344-1442.jpg",
+          imageSrc: "http://img.b2bpic.net/free-vector/hot-smoked-fire-logo-business-branding-template-barbeque-designs-inspiration-isolated-white-background_384344-1442.jpg?_wi=2",
         },
         {
           id: "res4",
@@ -178,7 +178,7 @@ export default function LandingPage() {
           price: "$450",
           rating: 5,
           reviewCount: "300",
-          imageSrc: "http://img.b2bpic.net/free-vector/20-food-solid-glyph-icon-presentation_1142-22254.jpg",
+          imageSrc: "http://img.b2bpic.net/free-vector/20-food-solid-glyph-icon-presentation_1142-22254.jpg?_wi=2",
         },
         {
           id: "res5",
